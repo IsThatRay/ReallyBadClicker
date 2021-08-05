@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reallybadclicker/static/css/main.d16098b0.chunk.css",
-    "main.js": "/reallybadclicker/static/js/main.44743b2d.chunk.js",
-    "main.js.map": "/reallybadclicker/static/js/main.44743b2d.chunk.js.map",
-    "runtime-main.js": "/reallybadclicker/static/js/runtime-main.3da838b2.js",
-    "runtime-main.js.map": "/reallybadclicker/static/js/runtime-main.3da838b2.js.map",
-    "static/js/2.68d04b00.chunk.js": "/reallybadclicker/static/js/2.68d04b00.chunk.js",
-    "static/js/2.68d04b00.chunk.js.map": "/reallybadclicker/static/js/2.68d04b00.chunk.js.map",
-    "index.html": "/reallybadclicker/index.html",
-    "static/css/main.d16098b0.chunk.css.map": "/reallybadclicker/static/css/main.d16098b0.chunk.css.map",
-    "static/js/2.68d04b00.chunk.js.LICENSE.txt": "/reallybadclicker/static/js/2.68d04b00.chunk.js.LICENSE.txt"
+    "main.css": "/ReallyBadClicker/static/css/main.d16098b0.chunk.css",
+    "main.js": "/ReallyBadClicker/static/js/main.44743b2d.chunk.js",
+    "main.js.map": "/ReallyBadClicker/static/js/main.44743b2d.chunk.js.map",
+    "runtime-main.js": "/ReallyBadClicker/static/js/runtime-main.82c8a34a.js",
+    "runtime-main.js.map": "/ReallyBadClicker/static/js/runtime-main.82c8a34a.js.map",
+    "static/js/2.68d04b00.chunk.js": "/ReallyBadClicker/static/js/2.68d04b00.chunk.js",
+    "static/js/2.68d04b00.chunk.js.map": "/ReallyBadClicker/static/js/2.68d04b00.chunk.js.map",
+    "index.html": "/ReallyBadClicker/index.html",
+    "static/css/main.d16098b0.chunk.css.map": "/ReallyBadClicker/static/css/main.d16098b0.chunk.css.map",
+    "static/js/2.68d04b00.chunk.js.LICENSE.txt": "/ReallyBadClicker/static/js/2.68d04b00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3da838b2.js",
+    "static/js/runtime-main.82c8a34a.js",
     "static/js/2.68d04b00.chunk.js",
     "static/css/main.d16098b0.chunk.css",
     "static/js/main.44743b2d.chunk.js"
